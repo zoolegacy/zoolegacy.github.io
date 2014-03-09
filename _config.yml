@@ -32,7 +32,7 @@ project:
   cover_image:    https://dl.dropboxusercontent.com/u/6831431/untitled-1.jpg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    
 #
 # 4. Your Twitter handle
 twitter_handle:   ZooLegacy
