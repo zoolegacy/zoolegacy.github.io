@@ -23,13 +23,13 @@ url:              http://zoolegacy.github.io/
 project:
   #
   # Name of the project
-  name:           Zoo Legacy
+  name:          
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://kck.st/12bbLkw
   #
   # URL of a cover photo of your project
-  cover_image:    https://dl.dropboxusercontent.com/u/6831431/Zoopeg.jpg
+  cover_image:    https://dl.dropboxusercontent.com/u/6831431/untitled-1.jpg
   #
   # Use a one-liner to describe your project
   description:    Stair-Rover is a longboard that glides down stairs with a blast.
