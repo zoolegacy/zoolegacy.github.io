@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello there!
+## Support the Dream!
 
 {{ site.welcome_text }}
 
