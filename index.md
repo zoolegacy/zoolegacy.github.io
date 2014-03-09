@@ -6,4 +6,4 @@ layout: default
 
 {{ site.welcome_text }}
 
-Support us with 3 clicks now!
+Support the dream with 3 clicks!
